@@ -1,0 +1,26 @@
+.akm{
+      font-size: 20px;
+      color: black;
+      cursor: pointer;
+}    
+    
+.mail{
+      color: blue;
+      font-size: 20px;
+      font-style: italic;
+      cursor: pointer;
+}    
+    
+.order{
+	font-size: 20px;
+      color: green;
+      cursor: pointer;
+} 
+
+.delivered{
+      color: red;
+}   
+.dd{
+      background-color: green;
+      border-color: green;
+}
